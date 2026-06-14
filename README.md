@@ -4,7 +4,7 @@
 
 Modern data stack: dbt · Snowflake · Airflow · Python · SQL — bilingual EN/FR.
 
-🌐 [Portfolio](https://thierrytrietlam.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/thierrytrietlam/) · ✉️ thierrylam.aifr@gmail.com
+🌐 [Portfolio](https://thierrylam.fr/) · 💼 [LinkedIn](https://www.linkedin.com/in/thierrytrietlam/) · ✉️ thierrylam.aifr@gmail.com
 
 ---
 
