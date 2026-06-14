@@ -30,4 +30,4 @@ I design and ship reliable data platforms — from raw ingestion to tested, docu
 
 ### 📫 Reach me
 
-📍 Paris, France · ✉️ thierrylam.aifr@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/thierrytrietlam/) · 🌐 [Portfolio](https://thierrytrietlam.github.io)
+📍 Paris, France · ✉️ thierrylam.aifr@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/thierrytrietlam/) · 🌐 [Portfolio](https://thierrylam.fr/)
